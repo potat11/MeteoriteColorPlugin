@@ -1,0 +1,6 @@
+name: ColorPlugin
+description: Just a sample plugin.
+main: ColorPlugin.java
+version: 1.0-SNAPSHOT
+author: "Potat"
+depend: [MeteoriteAPI]

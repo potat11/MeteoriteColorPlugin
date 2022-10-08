@@ -1,0 +1,6 @@
+name: ColorPlugin
+description: Displays colors in a gui.
+main: ColorPlugin.java
+version: ${project.version}
+author: "potat"
+depend: [MeteoriteAPI]
